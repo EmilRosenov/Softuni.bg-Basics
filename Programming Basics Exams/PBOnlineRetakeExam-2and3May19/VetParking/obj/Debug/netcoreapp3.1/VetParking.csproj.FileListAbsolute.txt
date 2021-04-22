@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\bin\Debug\netcoreapp3.1\VetParking.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\bin\Debug\netcoreapp3.1\VetParking.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\bin\Debug\netcoreapp3.1\VetParking.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\bin\Debug\netcoreapp3.1\VetParking.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\bin\Debug\netcoreapp3.1\VetParking.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\bin\Debug\netcoreapp3.1\VetParking.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\obj\Debug\netcoreapp3.1\VetParking.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\obj\Debug\netcoreapp3.1\VetParking.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\obj\Debug\netcoreapp3.1\VetParking.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\obj\Debug\netcoreapp3.1\VetParking.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\obj\Debug\netcoreapp3.1\VetParking.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\obj\Debug\netcoreapp3.1\VetParking.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\VetParking\obj\Debug\netcoreapp3.1\VetParking.genruntimeconfig.cache
