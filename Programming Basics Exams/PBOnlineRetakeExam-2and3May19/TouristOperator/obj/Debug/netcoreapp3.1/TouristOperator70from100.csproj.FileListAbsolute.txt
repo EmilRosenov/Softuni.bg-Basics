@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\bin\Debug\netcoreapp3.1\TouristOperator70from100.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\bin\Debug\netcoreapp3.1\TouristOperator70from100.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\bin\Debug\netcoreapp3.1\TouristOperator70from100.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\bin\Debug\netcoreapp3.1\TouristOperator70from100.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\bin\Debug\netcoreapp3.1\TouristOperator70from100.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\bin\Debug\netcoreapp3.1\TouristOperator70from100.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\obj\Debug\netcoreapp3.1\TouristOperator70from100.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\obj\Debug\netcoreapp3.1\TouristOperator70from100.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\obj\Debug\netcoreapp3.1\TouristOperator70from100.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\obj\Debug\netcoreapp3.1\TouristOperator70from100.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\obj\Debug\netcoreapp3.1\TouristOperator70from100.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\obj\Debug\netcoreapp3.1\TouristOperator70from100.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\TouristOperator\obj\Debug\netcoreapp3.1\TouristOperator70from100.genruntimeconfig.cache
