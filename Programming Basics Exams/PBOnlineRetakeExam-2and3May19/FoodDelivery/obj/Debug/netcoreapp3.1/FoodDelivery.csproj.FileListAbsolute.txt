@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.genruntimeconfig.cache
