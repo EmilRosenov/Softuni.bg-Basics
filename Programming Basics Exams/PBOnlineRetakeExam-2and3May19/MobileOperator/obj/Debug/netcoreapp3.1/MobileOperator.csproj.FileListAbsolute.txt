@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\bin\Debug\netcoreapp3.1\MobileOperator.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\MobileOperator\obj\Debug\netcoreapp3.1\MobileOperator.genruntimeconfig.cache
