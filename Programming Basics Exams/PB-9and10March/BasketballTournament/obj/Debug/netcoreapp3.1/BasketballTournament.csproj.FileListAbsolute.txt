@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\bin\Debug\netcoreapp3.1\BasketballTournament.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\bin\Debug\netcoreapp3.1\BasketballTournament.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\bin\Debug\netcoreapp3.1\BasketballTournament.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\bin\Debug\netcoreapp3.1\BasketballTournament.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\bin\Debug\netcoreapp3.1\BasketballTournament.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\bin\Debug\netcoreapp3.1\BasketballTournament.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\obj\Debug\netcoreapp3.1\BasketballTournament.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\obj\Debug\netcoreapp3.1\BasketballTournament.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\obj\Debug\netcoreapp3.1\BasketballTournament.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\obj\Debug\netcoreapp3.1\BasketballTournament.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\obj\Debug\netcoreapp3.1\BasketballTournament.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\obj\Debug\netcoreapp3.1\BasketballTournament.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\BasketballTournament\obj\Debug\netcoreapp3.1\BasketballTournament.genruntimeconfig.cache
