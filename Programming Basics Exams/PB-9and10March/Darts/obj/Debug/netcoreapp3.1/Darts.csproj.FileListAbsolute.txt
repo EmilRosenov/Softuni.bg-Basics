@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\obj\Debug\netcoreapp3.1\Darts.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\obj\Debug\netcoreapp3.1\Darts.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\obj\Debug\netcoreapp3.1\Darts.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\obj\Debug\netcoreapp3.1\Darts.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\bin\Debug\netcoreapp3.1\Darts.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\bin\Debug\netcoreapp3.1\Darts.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\bin\Debug\netcoreapp3.1\Darts.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\bin\Debug\netcoreapp3.1\Darts.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\bin\Debug\netcoreapp3.1\Darts.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\bin\Debug\netcoreapp3.1\Darts.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\obj\Debug\netcoreapp3.1\Darts.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\obj\Debug\netcoreapp3.1\Darts.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\Darts\obj\Debug\netcoreapp3.1\Darts.genruntimeconfig.cache
