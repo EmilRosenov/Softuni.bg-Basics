@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\bin\Debug\netcoreapp3.1\GameNumberWars.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\GameNumberWars\obj\Debug\netcoreapp3.1\GameNumberWars.genruntimeconfig.cache
