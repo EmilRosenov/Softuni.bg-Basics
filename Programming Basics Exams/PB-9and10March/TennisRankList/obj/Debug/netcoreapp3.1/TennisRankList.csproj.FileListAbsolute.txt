@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\bin\Debug\netcoreapp3.1\TennisRankList.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-9and10March\TennisRankList\obj\Debug\netcoreapp3.1\TennisRankList.genruntimeconfig.cache
