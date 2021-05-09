@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\bin\Debug\netcoreapp3.1\poolDay.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\bin\Debug\netcoreapp3.1\poolDay.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\bin\Debug\netcoreapp3.1\poolDay.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\bin\Debug\netcoreapp3.1\poolDay.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\bin\Debug\netcoreapp3.1\poolDay.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\bin\Debug\netcoreapp3.1\poolDay.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\obj\Debug\netcoreapp3.1\poolDay.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\obj\Debug\netcoreapp3.1\poolDay.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\obj\Debug\netcoreapp3.1\poolDay.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\obj\Debug\netcoreapp3.1\poolDay.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\obj\Debug\netcoreapp3.1\poolDay.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\obj\Debug\netcoreapp3.1\poolDay.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\poolDay\obj\Debug\netcoreapp3.1\poolDay.genruntimeconfig.cache
