@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\bin\Debug\netcoreapp3.1\Repainting.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\bin\Debug\netcoreapp3.1\Repainting.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\bin\Debug\netcoreapp3.1\Repainting.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\bin\Debug\netcoreapp3.1\Repainting.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\obj\Debug\netcoreapp3.1\Repainting.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\obj\Debug\netcoreapp3.1\Repainting.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\obj\Debug\netcoreapp3.1\Repainting.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\Repainting\obj\Debug\netcoreapp3.1\Repainting.genruntimeconfig.cache
