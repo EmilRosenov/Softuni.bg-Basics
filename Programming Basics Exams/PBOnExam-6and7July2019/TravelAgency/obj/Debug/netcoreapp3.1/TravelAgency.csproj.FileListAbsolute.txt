@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\bin\Debug\netcoreapp3.1\TravelAgency.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\PBOnExam-6and7July2019\TravelAgency\obj\Debug\netcoreapp3.1\TravelAgency.genruntimeconfig.cache
