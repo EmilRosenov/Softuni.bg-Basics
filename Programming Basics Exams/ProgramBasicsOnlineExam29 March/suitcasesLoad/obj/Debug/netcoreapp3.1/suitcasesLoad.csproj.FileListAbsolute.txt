@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\bin\Debug\netcoreapp3.1\suitcasesLoad.exe
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\bin\Debug\netcoreapp3.1\suitcasesLoad.deps.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\bin\Debug\netcoreapp3.1\suitcasesLoad.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\bin\Debug\netcoreapp3.1\suitcasesLoad.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\bin\Debug\netcoreapp3.1\suitcasesLoad.dll
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\bin\Debug\netcoreapp3.1\suitcasesLoad.pdb
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\obj\Debug\netcoreapp3.1\suitcasesLoad.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\obj\Debug\netcoreapp3.1\suitcasesLoad.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\obj\Debug\netcoreapp3.1\suitcasesLoad.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\obj\Debug\netcoreapp3.1\suitcasesLoad.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\obj\Debug\netcoreapp3.1\suitcasesLoad.dll
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\obj\Debug\netcoreapp3.1\suitcasesLoad.pdb
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\suitcasesLoad\obj\Debug\netcoreapp3.1\suitcasesLoad.genruntimeconfig.cache
