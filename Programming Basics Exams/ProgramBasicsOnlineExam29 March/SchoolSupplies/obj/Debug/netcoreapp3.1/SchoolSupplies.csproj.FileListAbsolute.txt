@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.exe
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.deps.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.dll
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\bin\Debug\netcoreapp3.1\SchoolSupplies.pdb
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.dll
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.pdb
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\SchoolSupplies\obj\Debug\netcoreapp3.1\SchoolSupplies.genruntimeconfig.cache
