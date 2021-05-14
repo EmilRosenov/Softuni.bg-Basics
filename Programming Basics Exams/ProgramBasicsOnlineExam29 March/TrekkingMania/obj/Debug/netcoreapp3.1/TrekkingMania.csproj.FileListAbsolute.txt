@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.exe
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.deps.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.dll
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.pdb
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.dll
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.pdb
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.genruntimeconfig.cache
