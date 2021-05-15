@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\bin\Debug\netcoreapp3.1\foodForPets.exe
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\bin\Debug\netcoreapp3.1\foodForPets.deps.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\bin\Debug\netcoreapp3.1\foodForPets.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\bin\Debug\netcoreapp3.1\foodForPets.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\bin\Debug\netcoreapp3.1\foodForPets.dll
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\bin\Debug\netcoreapp3.1\foodForPets.pdb
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\obj\Debug\netcoreapp3.1\foodForPets.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\obj\Debug\netcoreapp3.1\foodForPets.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\obj\Debug\netcoreapp3.1\foodForPets.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\obj\Debug\netcoreapp3.1\foodForPets.dll
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\obj\Debug\netcoreapp3.1\foodForPets.pdb
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\obj\Debug\netcoreapp3.1\foodForPets.genruntimeconfig.cache
+C:\Users\Sony Vaio\Desktop\Programming Basics Online Exam - 28 and 29 March 2020\foodForPets\obj\Debug\netcoreapp3.1\foodForPets.csprojAssemblyReference.cache
