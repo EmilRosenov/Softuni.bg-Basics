@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.exe
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\bin\Debug\netcoreapp3.1\EasterBakery.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.dll
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.pdb
+C:\Users\Sony Vaio\Desktop\Softuni fundamentals\Programing basics exams\Programming Basics Online Exam 20 and 21 April 2019\EasterBakery\obj\Debug\netcoreapp3.1\EasterBakery.genruntimeconfig.cache
